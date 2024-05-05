@@ -1,0 +1,7 @@
+{
+  "name": "breast-feeding",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
